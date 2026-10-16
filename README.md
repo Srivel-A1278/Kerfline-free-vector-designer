@@ -1,20 +1,3 @@
-<p align="center">
-  <img src="screenshots/kerfline-icon.png" width="96" height="96" alt="Kerfline icon">
-</p>
-
-<h1 align="center">Kerfline</h1>
-
-<p align="center"><b>Free vector drawing for makers.</b><br>
-Design for laser cutters, vinyl cutters, print and the web. Works offline. Saves to your own computer.</p>
-
-<p align="center">
-  <a href="../../releases/latest"><b>⬇ Download for Windows</b></a> ·
-  <a href="https://kerfline.surge.sh/app/"><b>Use it in your browser</b></a> ·
-  <a href="Desktop%20App/How%20to%20install%20Kerfline.txt">How to install</a>
-</p>
-
-<p align="center"><img src="screenshots/kerfline-editor.png" alt="The Kerfline editor with a poster open: tools on the left, the page in the middle, colour swatches and the Objects panel on the right"></p>
-
 ## What is Kerfline?
 
 Kerfline is a free drawing program for making **vector drawings**: pictures made of lines and shapes instead of pixels. A vector drawing stays sharp at any size, and machines can follow its lines exactly. That is why laser cutters, vinyl cutters, CNC routers and printers all work from vector files.
