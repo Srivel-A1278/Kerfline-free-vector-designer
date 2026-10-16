@@ -61,7 +61,7 @@ Works on Windows 10 and 11 (64-bit). Installer about 103 MB; about 321 MB once i
 - Deleted drawings go to a `Deleted` folder, and each save keeps the previous version
 - **Files never expire:** every version opens every older file
 
-<p align="center"><img src="screenshots/kerfline-home.png" alt="The Kerfline home screen with New drawing, Open a .svd file and a recent drawing"></p>
+
 
 ## Keyboard shortcuts
 
@@ -85,23 +85,8 @@ Also: `Ctrl+Z` undo · `Ctrl+Y` redo · `Ctrl+D` duplicate · `Ctrl+G` / `Ctrl+U
 
 Nothing is ever uploaded.
 
-## What's in this repository
 
-| Folder / file | What it is |
-|---|---|
-| [`Website/`](Website/) | The Kerfline website, ready to publish: [home page](Website/index.html), [the app](Website/app/index.html), [offline file](Website/kerfline.html), [privacy page](Website/privacy.html) |
-| [`Desktop App/`](Desktop%20App/) | [How to install Kerfline](Desktop%20App/How%20to%20install%20Kerfline.txt). The installer itself is under [Releases](../../releases/latest). |
-| [`screenshots/`](screenshots/) | The pictures in this README |
-| [`Read me first.txt`](Read%20me%20first.txt) | Plain-text guide to this folder |
 
-### Publishing the website yourself
-Publish the `Website` folder with any static host. For example, with [Surge](https://surge.sh):
-
-```bash
-surge Website kerfline.surge.sh
-```
-
-<p align="center"><img src="screenshots/kerfline-website.png" width="640" alt="The Kerfline website home page: Draw it. Cut it. Free."></p>
 
 ## Privacy
 
@@ -109,11 +94,9 @@ Kerfline collects nothing. There are no accounts, cookies, analytics or ads, and
 
 ## Credits
 
-- Created by **SRIVELTECH**.
 - Built-in fonts: Inter, Lora, JetBrains Mono, Bebas Neue and Pacifico, used under the SIL Open Font License 1.1.
 - Built with React, TypeScript, Vite, paper.js, opentype.js and Electron.
 - Kerfline is independent software. It isn't affiliated with any other drawing application.
 
 ---
 
-<p align="center">Made with care by SRIVELTECH, for makers and learners everywhere.</p>
