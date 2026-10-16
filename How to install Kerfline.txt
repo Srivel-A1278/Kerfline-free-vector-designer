@@ -1,0 +1,36 @@
+HOW TO INSTALL KERFLINE (Windows 10 and 11, 64-bit)
+
+1. Copy Kerfline-Setup-0.1.0.exe to the PC (USB stick, shared drive, etc.).
+
+2. Double-click Kerfline-Setup-0.1.0.exe.
+
+3. Windows may show a blue box: "Windows protected your PC".
+   This happens because the installer is new and not code-signed yet.
+   Click "More info", then "Run anyway".
+
+4. Choose where to install (the suggested place is fine) and click Install.
+   No administrator password is needed. It installs for that Windows user only.
+
+5. Open Kerfline from the desktop shortcut or the Start menu.
+
+WHERE DRAWINGS ARE SAVED
+ - Every drawing is saved automatically as a .svd file in D:\KerflineDrawings
+   (or Documents\KerflineDrawings if the PC has no D: drive).
+ - To use another folder: File > Change drawings folder...
+ - To see the files: File > Show drawings folder.
+ - Deleted drawings go to the "Deleted" folder inside, and each save keeps the
+   previous version in ".backup", so mistakes can be undone.
+ - Double-click any .svd file to open it in Kerfline.
+
+EXPORTING
+ - SVG, PDF, PNG and DXF (for laser cutters and CNC) from the Export button.
+
+UNINSTALLING
+ - Windows Settings > Apps > Kerfline > Uninstall.
+ - Uninstalling never deletes drawings.
+
+SIZE
+ - Installer about 103 MB; about 321 MB once installed.
+ - Works fully offline. Needs no internet at any time.
+
+Kerfline is free. Created by SRIVELTECH.
